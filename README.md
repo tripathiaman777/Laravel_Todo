@@ -2,13 +2,13 @@
     <h2>Steps to Setup!!</h2>
     <ol>
         <li> Clone the Repo </li>
-        <li> composer install </li>
-        <li>npm install</li>
+        <li> <code>composer install</code> </li>
+        <li><code>npm install</code></li>
         <li>Add .env as .envexample</li>
-        <li>php artisan key:generate</li>
-        <li>php artisan migrate</li>
-        <li>php artisan serve</li>
-        <li>In new Terminal do, npm run dev</li>
+        <li><code>php artisan key:generate</code></li>
+        <li><code>php artisan migrate</code></li>
+        <li><code>php artisan serve</code></li>
+        <li>In new Terminal run, <code>npm run dev</code></li>
     </ol>
 </div>
 
